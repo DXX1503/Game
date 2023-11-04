@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/startEnum.jpg</file>
+        <file>images/start_bu.jpg</file>
+        <file>images/Enter1.jpg</file>
+        <file>images/Fictory.jpg</file>
+        <file>images/Victory.jpg</file>
+        <file>images/back_mus.mp3</file>
+        <file>images/start_but.jpg</file>
+        <file>images/back_mus.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bullet.png</file>
+        <file>images/background1.jpg</file>
+        <file>images/background2.jpg</file>
+        <file>images/open_spot.png</file>
+        <file>images/monster1.png</file>
+        <file>images/tower3.png</file>
+        <file>images/tower2.png</file>
+        <file>images/background.jpg</file>
+        <file>images/tower1.jpg</file>
+        <file>images/background4.jpg</file>
+        <file>images/other.qrc</file>
+        <file>images/tower1.png</file>
+        <file>images/tower0.png</file>
+        <file>images/monster2.png</file>
+    </qresource>
+</RCC>
